@@ -8,7 +8,7 @@ app.use(express.json())
 app.use(cors())
 app.use(helmet())
 
-app.get('/', (res, req) => {
+app.get('/', (req, res) => {
     res.send({ message: 'Backend here'})
 })
 
