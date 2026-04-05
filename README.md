@@ -4,7 +4,7 @@ Demo project to learn how to setup and use turbo to speed up build and execution
 
 ## Pre-requirements
 
-1. Nodejs installed locally (recomomend `nvm`).
+1. Nodejs installed locally (highly recommend using `nvm` for this).
 1. `turbo` to be installed both globally and at the project root `package.json`, as suggested below in the official docs.
 1. `pnpm` to be installed globally.
 
